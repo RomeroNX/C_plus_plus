@@ -1,6 +1,5 @@
 // Ex 2
 
-// Example program
 #include <iostream>
 #include <string>
 #include <math.h>
